@@ -39,7 +39,7 @@
             Blutigen Anfänger raten wir, dass sie sich von einem erfahrenen Spieler helfen lassen.
         </p>
         <p>
-            Mit Helden-Online besteht die Möglichkeit seine Helden online zu speichern und von unterwegs Zugriff auf sie
+            Mit Helden-Online besteht die Möglichkeit, seine Helden online zu speichern und von unterwegs Zugriff auf sie
             zu haben.
         </p>
         <p>
@@ -47,10 +47,10 @@
             Heldenbögen mit eigenen Hintergründen verschönert werden.
         </p>
         <p>
-            DAS SCHWARZE AUGE, AVENTURIEN, DERE, MYRANOR, THARUN, UTHURIA und RIESLAND sind eingetragene Marken der
-            Significant Fantasy Medienrechte GbR.
-            Ohne vorherige schriftliche Genehmigung der Ulisses Medien und Spiel Distribution GmbH ist eine Verwendung
-            der genannten Markenzeichen nicht gestattet.
+            Dieses Produkt wurde unter Lizenz erstellt. Das Schwarze Auge und seine Logos sind eingetragene Marken
+            sowie Aventuria, Dere, Myranor, Riesland, Tharun, Uthuria, The Dark Eye und ihre Logos sind eingetragene
+            Marken von Ulisses Medien und Spiele Distribution GmbH in Deutschland, den U.S.A. und anderen Ländern.
+            Ulisses Spiele und seine Logos sind eingetragene Marken der Ulisses Medien und Spiel Distribution GmbH.
         </p>
     </description>
 
@@ -84,6 +84,59 @@
     </screenshots>
 
     <releases>
+        <release version="5.6.0" date="2026-09-01">
+            <url type="details">https://www.helden-software.de/index.php/2026/09/01/helden-software-5-6-0-erschienen/</url>
+            <description>
+                <p>Mehr als 10 Jahre nach dem letzten Release können wir heute eine neue Version der Helden-Software präsentieren.</p>
+                <p>In den letzten Monaten hat Markus, unterstützt durch Tester, der Helden-Software neues Leben eingehaucht.</p>
+                <p>Die wichtigsten Punkte:</p>
+
+                <p><em>Inhaltlich:</em></p>
+                <ul>
+                    <li>Aktualisierung der Myranor-Unterstützung (Myranische Magie 2. Auflage, Myranische Formeln, Myranisches Zauberwerk); verbesserter Dialog für Myranische Formeln</li>
+                    <li>Unterstützung eigener Vor- und Nachteile</li>
+                    <li>Personalisierung von Bögen und Armbrüsten</li>
+                    <li>Mirakeltalente von Geweihten verwalten</li>
+                    <li>Varianten des Efferdgeweihten aus dem Efferd-Vademecum</li>
+                    <li>Persönlicher Lehrmeister: Schüler des Vadif aus dem Aventurischen Boten 171</li>
+                    <li>Neuerungen aus der aktuellsten Auflage von Q11 Klingentänzer</li>
+                    <li>Unzählige kleinere Fehlerkorrekturen, die über die letzten Jahre gemeldet wurden.</li>
+                </ul>
+
+                <p><em>Oberfläche:</em></p>
+                <ul>
+                    <li>Einstellbare Vergrößerung der Oberfläche (z.B. für High-DPI-Monitore)</li>
+                    <li>Linux: Bessere Wayland-Unterstützung</li>
+                    <li>Mac: Die üblichen Tastenkombinationen (Cmd+C etc.) werden jetzt unterstützt</li>
+                    <li>Verbesserung von Import/Export von eigenen RKP, Formeln und VT/NT</li>
+                    <li>Einfaches Zuschneiden von Portraits</li>
+                </ul>
+
+                <p><em>Installation:</em></p>
+                <ul>
+                    <li>Sowohl für Windows als auch für macOS liefern wir Pakete aus, die die separate Installation von Java überflüssig machen.</li>
+                    <li>Für Linux liefern wir über Flatpak eine distributionsunabhängige Version aus.</li>
+                    <li>In Kürze wird die Helden-Software auch über das Scriptorium verfügbar sein. Wir danken Ulisses an der Stelle bei der Unterstützung mit den Lizenzen.</li>
+                    <li>Die Software wird somit über Scriptorium/Helden-Software Webseite/Debian-Repository und Flathub verfügbar sein</li>
+                </ul>
+
+                <p><em>Helden-Online</em></p>
+                <ul>
+                    <li>Überarbeitung</li>
+                    <li>Neuer Heldenbogen by Rothen</li>
+                    <li>Würfel-Tool</li>
+                    <li>Elementar Beschwörungstool</li>
+                </ul>
+
+                <p><em>Plugins</em></p>
+                <p>Einige neue Plugins wurden von Dritten entwickelt (Die Plugins werden durch uns nicht geprüft):</p>
+                <ul>
+                    <li>Helden-Overhaul: Neuer Heldenbogen: https://dsaforum.de/viewtopic.php?p=2231157</li>
+                    <li>Digitale Heldenbögen: https://mk-bauer.de/helden-software/heldenbogen.html</li>
+                </ul>
+            </description>
+        </release>
+
         <release version="5.5.4" date="2023-07-03">
             <url type="details">https://forum.helden-software.de/viewtopic.php?t=4304</url>
             <description>
@@ -96,6 +149,7 @@
                 </ul>
             </description>
         </release>
+
         <release version="5.5.3" date="2017-07-23">
             <url type="details">https://www.helden-software.de/index.php/download/</url>
             <description>
