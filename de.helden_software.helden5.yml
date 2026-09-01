@@ -81,9 +81,9 @@ modules:
 
       - type: extra-data
         filename: helden.jar
-        url: https://www.helden-software.de/down/hs5/050504beta2/helden.jar
-        size: 9319313
-        sha256: 181c1e8b7bf35356dce20623080563a5f1a6c7363e33a4a094d81f759e7ec14e
+        url: https://www.helden-software.de/down/hs5/050600/helden.jar
+        size: 9737304
+        sha256: 79b9bb2c21d34059ca82814bf60e9eadd514415bfc21f0e28257ce047f8aa2b0
 
       - type: file
         path: de.helden_software.helden5.metainfo.xml
