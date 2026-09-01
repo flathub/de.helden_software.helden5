@@ -91,7 +91,7 @@
                 <p>In den letzten Monaten hat Markus, unterstützt durch Tester, der Helden-Software neues Leben eingehaucht.</p>
                 <p>Die wichtigsten Punkte:</p>
 
-                <p><b>Inhaltlich:</b></p>
+                <p><em>Inhaltlich:</em></p>
                 <ul>
                     <li>Aktualisierung der Myranor-Unterstützung (Myranische Magie 2. Auflage, Myranische Formeln, Myranisches Zauberwerk); verbesserter Dialog für Myranische Formeln</li>
                     <li>Unterstützung eigener Vor- und Nachteile</li>
@@ -103,7 +103,7 @@
                     <li>Unzählige kleinere Fehlerkorrekturen, die über die letzten Jahre gemeldet wurden.</li>
                 </ul>
 
-                <p><b>Oberfläche:</b></p>
+                <p><em>Oberfläche:</em></p>
                 <ul>
                     <li>Einstellbare Vergrößerung der Oberfläche (z.B. für High-DPI-Monitore)</li>
                     <li>Linux: Bessere Wayland-Unterstützung</li>
@@ -112,7 +112,7 @@
                     <li>Einfaches Zuschneiden von Portraits</li>
                 </ul>
 
-                <p><b>Installation:</b></p>
+                <p><em>Installation:</em></p>
                 <ul>
                     <li>Sowohl für Windows als auch für macOS liefern wir Pakete aus, die die separate Installation von Java überflüssig machen.</li>
                     <li>Für Linux liefern wir über Flatpak eine distributionsunabhängige Version aus.</li>
@@ -120,7 +120,7 @@
                     <li>Die Software wird somit über Scriptorium/Helden-Software Webseite/Debian-Repository und Flathub verfügbar sein</li>
                 </ul>
 
-                <p><b>Helden-Online</b></p>
+                <p><em>Helden-Online</em></p>
                 <ul>
                     <li>Überarbeitung</li>
                     <li>Neuer Heldenbogen by Rothen</li>
@@ -128,11 +128,11 @@
                     <li>Elementar Beschwörungstool</li>
                 </ul>
 
-                <p><b>Plugins</b></p>
+                <p><em>Plugins</em></p>
                 <p>Einige neue Plugins wurden von Dritten entwickelt (Die Plugins werden durch uns nicht geprüft):</p>
                 <ul>
-                    <li>Helden-Overhaul: Neuer Heldenbogen <a href="https://dsaforum.de/viewtopic.php?p=2231157">https://dsaforum.de/viewtopic.php?p=2231157</a></li>
-                    <li>Digitale Heldenbögen: <a href="https://mk-bauer.de/helden-software/heldenbogen.html">https://mk-bauer.de/helden-software/heldenbogen.html</a></li>
+                    <li>Helden-Overhaul: Neuer Heldenbogen: https://dsaforum.de/viewtopic.php?p=2231157</li>
+                    <li>Digitale Heldenbögen: https://mk-bauer.de/helden-software/heldenbogen.html</li>
                 </ul>
             </description>
         </release>
